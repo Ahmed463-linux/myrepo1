@@ -1,0 +1,68 @@
+[33m176f8b6[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-branch[m[33m)[m HEAD@{0}: rebase finished: returning to refs/heads/feature-branch
+[33m176f8b6[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-branch[m[33m)[m HEAD@{1}: rebase: branchB
+[33m85e546f[m HEAD@{2}: rebase: Update file1.txt
+[33m943d477[m HEAD@{3}: rebase: my linux practice
+[33md1ee213[m HEAD@{4}: rebase: first commit
+[33m3e4f72f[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{5}: rebase: checkout origin/main
+[33m6fb670f[m[33m ([m[1;33mtag: branchB-new[m[33m, [m[1;33mtag: branchB-light[m[33m, [m[1;33mtag: branchB-annotated[m[33m, [m[1;33mtag: A1[m[33m, [m[1;31morigin/branchB[m[33m, [m[1;32mbranchB[m[33m)[m HEAD@{6}: checkout: moving from branchB to feature-branch
+[33m6fb670f[m[33m ([m[1;33mtag: branchB-new[m[33m, [m[1;33mtag: branchB-light[m[33m, [m[1;33mtag: branchB-annotated[m[33m, [m[1;33mtag: A1[m[33m, [m[1;31morigin/branchB[m[33m, [m[1;32mbranchB[m[33m)[m HEAD@{7}: reset: moving to HEAD~1
+[33mca66d2c[m HEAD@{8}: reset: moving to HEAD~1
+[33m1d615fa[m HEAD@{9}: commit: Commit 3 again
+[33mca66d2c[m HEAD@{10}: reset: moving to HEAD~1
+[33m5135687[m HEAD@{11}: commit: Commit 3
+[33mca66d2c[m HEAD@{12}: reset: moving to ca66d2c04b83e9280c4c903d39f819ab91ca725e
+[33m6fb670f[m[33m ([m[1;33mtag: branchB-new[m[33m, [m[1;33mtag: branchB-light[m[33m, [m[1;33mtag: branchB-annotated[m[33m, [m[1;33mtag: A1[m[33m, [m[1;31morigin/branchB[m[33m, [m[1;32mbranchB[m[33m)[m HEAD@{13}: reset: moving to HEAD~3
+[33meebb851[m HEAD@{14}: reset: moving to HEAD~1
+[33m812cde8[m HEAD@{15}: pull origin branchB: Merge made by the 'recursive' strategy.
+[33meebb851[m HEAD@{16}: commit: converted to normal folders
+[33m02c6cbc[m HEAD@{17}: commit: fixed nested repo issue
+[33mca66d2c[m HEAD@{18}: reset: moving to HEAD~1
+[33m4882b25[m HEAD@{19}: commit: new commit
+[33mca66d2c[m HEAD@{20}: reset: moving to HEAD~1
+[33ma8d2fa9[m HEAD@{21}: revert: Revert "Update file1.txt"
+[33mca66d2c[m HEAD@{22}: revert: Revert "branchB"
+[33m6fb670f[m[33m ([m[1;33mtag: branchB-new[m[33m, [m[1;33mtag: branchB-light[m[33m, [m[1;33mtag: branchB-annotated[m[33m, [m[1;33mtag: A1[m[33m, [m[1;31morigin/branchB[m[33m, [m[1;32mbranchB[m[33m)[m HEAD@{23}: checkout: moving from branchA to branchB
+[33m70a116c[m[33m ([m[1;33mtag: branchA-light[m[33m, [m[1;33mtag: branchA-annotated[m[33m, [m[1;32mbranchA[m[33m)[m HEAD@{24}: checkout: moving from master to branchA
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{25}: checkout: moving from branchB to master
+[33m6fb670f[m[33m ([m[1;33mtag: branchB-new[m[33m, [m[1;33mtag: branchB-light[m[33m, [m[1;33mtag: branchB-annotated[m[33m, [m[1;33mtag: A1[m[33m, [m[1;31morigin/branchB[m[33m, [m[1;32mbranchB[m[33m)[m HEAD@{26}: checkout: moving from branchA to branchB
+[33m70a116c[m[33m ([m[1;33mtag: branchA-light[m[33m, [m[1;33mtag: branchA-annotated[m[33m, [m[1;32mbranchA[m[33m)[m HEAD@{27}: checkout: moving from master to branchA
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{28}: checkout: moving from master to master
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{29}: checkout: moving from branchA to master
+[33m70a116c[m[33m ([m[1;33mtag: branchA-light[m[33m, [m[1;33mtag: branchA-annotated[m[33m, [m[1;32mbranchA[m[33m)[m HEAD@{30}: commit: tag-practice
+[33m175a4be[m[33m ([m[1;33mtag: branch1.4[m[33m, [m[1;33mtag: branch1.3[m[33m, [m[1;33mtag: branch1.2[m[33m)[m HEAD@{31}: revert: Revert 'original message'
+[33mbf855a6[m HEAD@{32}: checkout: moving from branchB to branchA
+[33m6fb670f[m[33m ([m[1;33mtag: branchB-new[m[33m, [m[1;33mtag: branchB-light[m[33m, [m[1;33mtag: branchB-annotated[m[33m, [m[1;33mtag: A1[m[33m, [m[1;31morigin/branchB[m[33m, [m[1;32mbranchB[m[33m)[m HEAD@{33}: checkout: moving from branchA to branchB
+[33mbf855a6[m HEAD@{34}: merge branchB: Merge made by the 'recursive' strategy.
+[33m22e93b3[m[33m ([m[1;33mtag: branchA-new[m[33m)[m HEAD@{35}: checkout: moving from branchB to branchA
+[33m6fb670f[m[33m ([m[1;33mtag: branchB-new[m[33m, [m[1;33mtag: branchB-light[m[33m, [m[1;33mtag: branchB-annotated[m[33m, [m[1;33mtag: A1[m[33m, [m[1;31morigin/branchB[m[33m, [m[1;32mbranchB[m[33m)[m HEAD@{36}: commit: branchB
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{37}: checkout: moving from branchA to branchB
+[33m22e93b3[m[33m ([m[1;33mtag: branchA-new[m[33m)[m HEAD@{38}: commit: branchA
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{39}: checkout: moving from branchB to branchA
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{40}: checkout: moving from branchA to branchB
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{41}: checkout: moving from master to branchA
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{42}: checkout: moving from branchX to master
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{43}: checkout: moving from branchY to branchX
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{44}: checkout: moving from branchX to branchY
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{45}: checkout: moving from master to branchX
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{46}: checkout: moving from branchY to master
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{47}: checkout: moving from branchX to branchY
+[33m3ddcd36[m HEAD@{48}: commit: branchX
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{49}: checkout: moving from test to branchX
+[33m09f0db3[m[33m ([m[1;31morigin/test[m[33m)[m HEAD@{50}: checkout: moving from master to test
+[33mc5daafb[m[33m ([m[1;33mtag: v2-light[m[33m, [m[1;33mtag: v2-annotated[m[33m, [m[1;33mtag: master-light[m[33m, [m[1;33mtag: master-annotated[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{51}: pull: Fast-forward
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{52}: checkout: moving from branchY to master
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{53}: checkout: moving from branchX to branchY
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{54}: checkout: moving from branchY to branchX
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{55}: checkout: moving from test4 to branchY
+[33me7b6ccd[m HEAD@{56}: commit: branchY
+[33m5ab856f[m HEAD@{57}: commit: branchX
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{58}: checkout: moving from test4 to test4
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{59}: checkout: moving from master to test4
+[33mffe46a6[m[33m ([m[1;31morigin/Rafeeq[m[33m)[m HEAD@{60}: commit: my linux practice
+[33mfab7bcc[m HEAD@{61}: checkout: moving from test to master
+[33m85806fa[m HEAD@{62}: commit (amend): New commit message
+[33m79844f5[m HEAD@{63}: pull origin test: Fast-forward
+[33m654d4f3[m HEAD@{64}: commit: second commit
+[33mfab7bcc[m HEAD@{65}: checkout: moving from devlope to test
+[33mfab7bcc[m HEAD@{66}: checkout: moving from master to devlope
+[33mfab7bcc[m HEAD@{67}: commit (initial): first commit
